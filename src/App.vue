@@ -5,6 +5,9 @@
 </template>
 <script lang="ts" setup name="App">
   const str = 'I Love China'
+  for (let i = 0; i < 10; i++) {
+    console.log('hello vue')
+  }
 </script>
 <style scoped>
   .box {
