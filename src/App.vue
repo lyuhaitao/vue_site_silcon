@@ -1,6 +1,7 @@
 <template>
   <div class="box">
     <h1>App Root Component-peter</h1>
+    <h1>Add a new title</h1>
   </div>
 </template>
 <script lang="ts" setup name="App">
